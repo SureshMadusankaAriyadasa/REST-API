@@ -30,7 +30,10 @@ Link: http://localhost/phpmyadmin/db_structure.php?server=1&db=sql_coffee_shop
 
 Click ----> "import" tab ----> Click "Choose File" ---->Select "sql_coffee_shop.sql" in the project folder.  --->  Click "Go" Button.
 
+
 Step 5:
+Open the Eclipse  ---> Click "import"  ---> Select "existing Maven Project" ---> Click "Next" button ---> Browse the project Directory  ---> Click "Finish" button.
+Step 6:
 Test
 
 **We can show the list of coffee items, http://localhost:2121/products/view
