@@ -32,7 +32,10 @@ Click ----> "import" tab ----> Click "Choose File" ---->Select "sql_coffee_shop.
 
 
 Step 5:
-Open the Eclipse  ---> Click "import"  ---> Select "existing Maven Project" ---> Click "Next" button ---> Browse the project Directory  ---> Click "Finish" button.
+Open the Eclipse  ---> Click "import"  ---> Select "existing Maven Project" ---> Click "Next" button ---> Browse the project Directory  ---> Click "Finish" button.................        
+
+
+
 Step 6:
 Test
 
